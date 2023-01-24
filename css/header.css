@@ -1,0 +1,35 @@
+.header__wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 17px 0;
+}
+.list__link {
+    display:flex;
+    gap: 0 25px;
+}
+.link__link {
+    color: #000000;
+    text-decoration: none;
+}
+.nav__btn {
+    display:flex ;
+    gap: 0 14px;
+}
+.btn__item {
+    display: flex;
+    align-items: center;
+    border: none;
+    border-radius: 3px;
+    padding: 10px 19px 10px 14px;
+    font-size: 13px;
+    color: #FFFFFF;
+}
+.btn__item-orange {
+    background-color: #EF7F04;
+}
+.btn__item-blue {
+    background: #3B3A63;
+}
+
+

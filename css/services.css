@@ -1,0 +1,172 @@
+.main {
+  background-color: #F2F2F2;
+  width: 1200px;
+  margin: 0 auto;
+}
+
+
+
+.service__title {
+    margin: 650px 0px 48px 0px;
+    display: flex;
+    justify-content: center;
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #2F2F51;
+  }
+  
+  .services__wrapper {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 5px;
+    justify-content: center;
+  }
+  
+  .service {
+    border: 1px solid #FFFFFF;
+    width: 595px;
+    height: 268px;
+    /* background: rgb(239, 215, 147); */
+    padding: 64px 0px 32px 61px;
+  }
+  
+  .service__top {
+    display: flex;
+    gap: 22px;
+    margin-bottom: 32px;
+  }
+  
+  .service__top,
+  .service_bottom {
+    width: 300px;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 19px;
+    color: #2F2F51;
+
+  }
+  
+  .top_text {
+    display: flex;
+    align-items: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px; 
+    color: #2F2F51;
+  }
+  
+  .one {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(to right,
+        #FFFFFF 50%,
+        transparent),
+        url('../images/services/Group19.png');
+  }
+  
+  .two {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(to right,
+        #FFFFFF 50%,
+        transparent),
+        url('../images/services/Group20.png');
+  }
+  
+  .three {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(to right,
+        #FFFFFF 50%,
+        transparent),
+        url('../images/services/Group18.png');
+  }
+
+  .four {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    background-image: linear-gradient(to right,
+        #FFFFFF 50%,
+        transparent),
+        url('../images/services/Group21.png');
+  }
+  .service__section {
+    width: 1200px;
+    margin: 0 auto;
+  }
+  .service__title__two {
+    margin: 65px 0px 40px 0px;
+    display: flex;
+    justify-content: center;
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 28px;
+
+    color: #2F2F51;
+
+
+  }
+  .list__link__two {
+    display: flex;
+    gap: 50px;
+    margin-left: 433px;
+  }
+  .link__link__two {
+    text-decoration: none;
+    color: #2F2F51;
+  }
+  .btn__item__description {
+    margin-top: 210px;
+    margin-right: 25px;
+    padding-top: 8px;
+    padding-left: 25px;
+    position: absolute;
+    width: 130.91px;
+    height: 39px;
+    left: 600px;
+    top: 1270px;
+    font-size: 18px;
+    font-family: 'Roboto';
+    font-weight: 400;
+  
+    background: #EF7F04;
+    border-radius: 3px;
+  }
+  .services__description{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 17px 0;
+    height: 462px;
+    width: 1200px; 
+    
+}
+.list__link__two {
+  display: flex;
+}
+.services__description{
+  width: 1200px;
+  height: 461px;
+}
+.one__one{
+  margin-top: 150px;
+  margin-left: 600px;
+}  
+.description__one__one {
+  margin-top: 340px;
+}
